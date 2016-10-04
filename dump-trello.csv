@@ -1,37 +1,56 @@
 Recurso,Sprint,Ano,Mes,Card,Prazo,Qualidade,Descricao,url,Count 
-MC,160926,2016,09,57e92fecce8ea39f5f8d42bf,null,manga,"Reunião de Priorização e Planejamento",https://trello.com/c/rITcNhOw,1 
-WN,160926,2016,09,57e92fecce8ea39f5f8d42bf,null,null,"Reunião de Priorização e Planejamento",https://trello.com/c/rITcNhOw,1 
-MC,160926,2016,09,57e935812d613f6a8e585e74,null,null,"Meta Lider - Reunião Respostas aos Riscos",https://trello.com/c/qizur5KX,1 
-WN,160926,2016,09,57e935812d613f6a8e585e74,null,null,"Meta Lider - Reunião Respostas aos Riscos",https://trello.com/c/qizur5KX,1 
-MC,160926,2016,09,57dfec0646d9fce10a7426d3,null,null,"META 1 - (Plano de Iniciação) - verificar Marcos e Julio",https://trello.com/c/4hGTUo6L,1 
-WN,160926,2016,09,57e93049fc649b4d7513953c,null,null,"Fábricas - FATTO - Anexo de Métricas e Documentação (reunião de planejamento)",https://trello.com/c/yjecIJgK,1 
-MC,160926,2016,09,57e93049fc649b4d7513953c,null,null,"Fábricas - FATTO - Anexo de Métricas e Documentação (reunião de planejamento)",https://trello.com/c/yjecIJgK,1 
-MC,160926,2016,09,57e934fe8029e9b9ccc7626e,null,null,"Fábricas - Anexo de Documentação (MVP) - Cobrar Simone",https://trello.com/c/QlJQdw10,1 
-MC,160926,2016,09,57e185451d8e41369c1a7407,null,null,"Fábricas - Anexo de Metrica merge com Roteiro",https://trello.com/c/kJHbMiVE,1 
-MC,160926,2016,09,57e9779c0d35f6ebab6bbf6d,null,null,"Fabrica - Pagar pela Estimada - Gerar historico - Conversar com o Tribunal de Contas",https://trello.com/c/f1iuT1mg,1 
-WN,160926,2016,09,57e96bc2b69771f831345d68,null,null,"Fábricas - Entender virada para produção",https://trello.com/c/ExF06dXc,1 
-WN,160926,2016,09,57e96c800e709e3a9dfecf36,null,null,"PGA - DoR & DoD",https://trello.com/c/xeepu1yY,1 
-MC,160926,2016,09,57e93234afe9838a5fbbb521,null,null,"GTT Matricula - Orientar Bianca no Site da Matricula",https://trello.com/c/UGlSoYnu,1 
-MC,160926,2016,09,57e933204422a0863e3cb139,null,null,"PGA - Pasta para publicação  - Cobrar Fagundes",https://trello.com/c/5nLWJi9j,1 
-WN,160926,2016,09,57e933204422a0863e3cb139,null,null,"PGA - Pasta para publicação  - Cobrar Fagundes",https://trello.com/c/5nLWJi9j,1 
-JS,160926,2016,09,57cd7ebf2694de2d03e169a1,null,null,"Manutenção do Portal de Aquisição",https://trello.com/c/eT4uhb32,1 
-JS,160926,2016,09,57cf310084ecb1616c87da6e,null,null,"Portal - Fluxo de Testes",https://trello.com/c/4XnB8jSE,1 
-JS,160926,2016,09,57e93376d4b73d2e81318061,null,null,"Formulário de Avaliação e Difusão &  Termo de Compromisso",https://trello.com/c/r5qeFAQz,1 
-WN,160926,2016,09,57eaab6ccf167c6f1bd59355,null,null,"Dashboard - Atividades do Trello",https://trello.com/c/2YB4AVly,1 
-WN,160926,2016,09,57eab94f1a18689fcb29f2fe,null,null,"Teletrabalho - Novo formulário",https://trello.com/c/6fx61YPf,1 
-MC,160926,2016,09,57eab94f1a18689fcb29f2fe,null,null,"Teletrabalho - Novo formulário",https://trello.com/c/6fx61YPf,1 
-MC,160926,2016,09,57e93147fceccc2e9c00a7ac,null,null,"CTIS - Pendências- Orion",https://trello.com/c/kSpEKV35,1 
-MC,160926,2016,09,57e937e934d2a4779d227427,null,null,"Reunião de Entrega",https://trello.com/c/qUp33hKS,1 
-WN,160926,2016,09,57e937e934d2a4779d227427,null,null,"Reunião de Entrega",https://trello.com/c/qUp33hKS,1 
-MC,161003,2016,10,57ebcbb311b76fcd2f22b56a,null,null,"CTIS - Apresentação Orion",https://trello.com/c/4i0CMAcB,1 
+MC,161003,2016,10,57f2612eab397026a539fe2a,null,null,"Reunião de Priorização e Planejamento",https://trello.com/c/sBwrE0cX,1 
+WN,161003,2016,10,57f2612eab397026a539fe2a,null,null,"Reunião de Priorização e Planejamento",https://trello.com/c/sBwrE0cX,1 
 MC,161003,2016,10,57ebcc42048629dc975bfd29,null,null,"Atividades do Mês",https://trello.com/c/9ZdmX55R,1 
-WN,161003,2016,10,57e93444b4713fd52cc82381,null,null,"Sizify - Desdobramento ou Planilha no TR ???",https://trello.com/c/WK4d9kmO,1 
-MC,161003,2016,10,57e96824a8139ccc8e99e51b,null,null,"META 1 - (Plano de Iniciação) - Elaborar TAP",https://trello.com/c/Gcimb4RM,1 
+MC,161003,2016,10,57ebcbb311b76fcd2f22b56a,null,null,"CTIS - Apresentação Orion",https://trello.com/c/4i0CMAcB,1 
+JS,161003,2016,10,57f29590e7d3a0123ac9699d,null,null,"CTIS - Quadro de Artefatos",https://trello.com/c/NwYV5SpT,1 
+JS,161003,2016,10,57f26661129c5dabb034b73b,null,null,"META 1 - (Plano de Iniciação) - verificar Marcos e Julio",https://trello.com/c/qI7DofEv,1 
+JS,161003,2016,10,57e96824a8139ccc8e99e51b,null,null,"META 1 - (Plano de Iniciação) - Elaborar TAP",https://trello.com/c/Gcimb4RM,1 
+WN,161003,2016,10,57f274f33fe7add32fdcdd43,null,null,"Fábricas - Reunião Anexo de Documentação",https://trello.com/c/updnLhLZ,1 
+MC,161003,2016,10,57f274f33fe7add32fdcdd43,null,null,"Fábricas - Reunião Anexo de Documentação",https://trello.com/c/updnLhLZ,1 
+JS,161003,2016,10,57f274f33fe7add32fdcdd43,null,null,"Fábricas - Reunião Anexo de Documentação",https://trello.com/c/updnLhLZ,1 
+WN,161003,2016,10,57f267d3c87805350dcd35ad,null,null,"Fábricas - Adaptar Anexo de Documentação",https://trello.com/c/OxmkGvjE,1 
+WN,161003,2016,10,57e934fe8029e9b9ccc7626e,null,null,"Fábricas - Anexo de Documentação (MVP) - Cobrar Simone",https://trello.com/c/QlJQdw10,1 
+MC,161003,2016,10,57f2683020a1dc942d0e6998,null,null,"Fábricas - Anexo de Metrica merge com Roteiro",https://trello.com/c/rumFyKC7,1 
+JS,161003,2016,10,57f2683020a1dc942d0e6998,null,null,"Fábricas - Anexo de Metrica merge com Roteiro",https://trello.com/c/rumFyKC7,1 
+WN,161003,2016,10,57f26cb3088daf293f733208,null,null,"PGA - Pasta para publicação - Cobrar Fagundes/ luciana",https://trello.com/c/3nGFiVwR,1 
+MC,161003,2016,10,57ebd073eebf49694b585dcc,null,null,"Site da IplanRio pronto para ser colocado no ar (aguardando autorizo de Fabio) - SOLUTIS / LUIZ",https://trello.com/c/InYAbCyk,1 
+WN,161003,2016,10,57ebd073eebf49694b585dcc,null,null,"Site da IplanRio pronto para ser colocado no ar (aguardando autorizo de Fabio) - SOLUTIS / LUIZ",https://trello.com/c/InYAbCyk,1 
+MC,161003,2016,10,57f26605df3f3f9eb93370fb,null,null,"Meta Lider - Reunião Respostas aos Riscos - Reuniao Weslley (quinta e sexta ) e Monica (quarta e sexta )",https://trello.com/c/1uYa8WSQ,1 
+WN,161003,2016,10,57f26605df3f3f9eb93370fb,null,null,"Meta Lider - Reunião Respostas aos Riscos - Reuniao Weslley (quinta e sexta ) e Monica (quarta e sexta )",https://trello.com/c/1uYa8WSQ,1 
+JS,161003,2016,10,57e93376d4b73d2e81318061,null,null,"Formulário de Avaliação e Difusão &  Termo de Compromisso",https://trello.com/c/r5qeFAQz,1 
+MC,161003,2016,10,57f26dec078e4f3b64b1842e,null,null,"Teletrabalho - Novo formulário",https://trello.com/c/2jq4uhVl,1 
+JS,161003,2016,10,57f26dec078e4f3b64b1842e,null,null,"Teletrabalho - Novo formulário",https://trello.com/c/2jq4uhVl,1 
+JS,161003,2016,10,57cf310084ecb1616c87da6e,null,null,"Portal de Aquisição de Software- Fluxo de Testes",https://trello.com/c/4XnB8jSE,1 
 MC,161003,2016,10,57b210fa34107fa42a4ffb09,null,null,"FGF - Termo de Abertura",https://trello.com/c/OpSftx5H,1 
 MC,161003,2016,10,57b21142f5ff0fb5ded032c2,null,null,"FGF - Validar Adaptar e preencher PDS",https://trello.com/c/n1pBD7HN,1 
 MC,161003,2016,10,57b2112f04634f29de7df506,null,null,"FGF - Estudar NESMA",https://trello.com/c/vOKJ85Ka,1 
-WN,161003,2016,10,57dff2788d806bcde9dc0413,null,null,"FGF - 3º Refinamento de Requisitos",https://trello.com/c/bqK2pV3N,1 
-NULL,161003,2016,10,57ebd073eebf49694b585dcc,null,null,"Site da IplanRio pronto para ser colocado no ar (aguardando autorizo de Fabio);",https://trello.com/c/InYAbCyk,1 
+MC,161003,2016,10,57dff2788d806bcde9dc0413,null,null,"FGF - 3º Refinamento de Requisitos",https://trello.com/c/bqK2pV3N,1 
+MC,161003,2016,10,57f26b1fe33ed7005a4be89e,null,null,"PGA - DoR & DoD",https://trello.com/c/cswEPd00,1 
+MC,161003,2016,10,57f26d1a382467a80c2fff64,null,null,"GTT Matricula - Orientar Bianca no Site da Matricula",https://trello.com/c/Y1GzUOHQ,1 
+MC,161003,2016,10,57f26145822c45bd39f3209c,null,null,"Reunião de Entrega",https://trello.com/c/5URe9wE9,1 
+WN,161003,2016,10,57f26145822c45bd39f3209c,null,null,"Reunião de Entrega",https://trello.com/c/5URe9wE9,1 
+MC,161010,2016,10,57e9779c0d35f6ebab6bbf6d,null,null,"Fabrica - Pagar pela Estimada - Gerar historico - Conversar com o Tribunal de Contas",https://trello.com/c/f1iuT1mg,1 
+WN,161010,2016,10,57e93444b4713fd52cc82381,null,null,"Sizify - Desdobramento ou Planilha no TR ???",https://trello.com/c/WK4d9kmO,1 
+JS,161010,2016,10,57cd7ebf2694de2d03e169a1,null,null,"Manutenção do Portal de Aquisição",https://trello.com/c/eT4uhb32,1 
+MC,160926,2016,09,57e92fecce8ea39f5f8d42bf,Sim,10,"Reunião de Priorização e Planejamento",https://trello.com/c/rITcNhOw,1 
+WN,160926,2016,09,57e92fecce8ea39f5f8d42bf,Sim,10,"Reunião de Priorização e Planejamento",https://trello.com/c/rITcNhOw,1 
+MC,160926,2016,09,57e935812d613f6a8e585e74,Sim,10,"Meta Lider - Reunião Respostas aos Riscos",https://trello.com/c/qizur5KX,1 
+WN,160926,2016,09,57e935812d613f6a8e585e74,Sim,10,"Meta Lider - Reunião Respostas aos Riscos",https://trello.com/c/qizur5KX,1 
+MC,160926,2016,09,57dfec0646d9fce10a7426d3,Sim,10,"META 1 - (Plano de Iniciação) - verificar Marcos e Julio",https://trello.com/c/4hGTUo6L,1 
+WN,160926,2016,09,57e93049fc649b4d7513953c,Sim,10,"Fábricas - FATTO - Anexo de Métricas e Documentação (reunião de planejamento)",https://trello.com/c/yjecIJgK,1 
+MC,160926,2016,09,57e93049fc649b4d7513953c,Sim,10,"Fábricas - FATTO - Anexo de Métricas e Documentação (reunião de planejamento)",https://trello.com/c/yjecIJgK,1 
+MC,160926,2016,09,57e185451d8e41369c1a7407,Sim,10,"Fábricas - Anexo de Metrica merge com Roteiro",https://trello.com/c/kJHbMiVE,1 
+WN,160926,2016,09,57e96bc2b69771f831345d68,Sim,8,"Fábricas - Entender virada para produção",https://trello.com/c/ExF06dXc,1 
+WN,160926,2016,09,57e96c800e709e3a9dfecf36,Sim,10,"PGA - DoR & DoD",https://trello.com/c/xeepu1yY,1 
+MC,160926,2016,09,57e933204422a0863e3cb139,Sim,10,"PGA - Pasta para publicação  - Cobrar Fagundes",https://trello.com/c/5nLWJi9j,1 
+WN,160926,2016,09,57e933204422a0863e3cb139,Sim,10,"PGA - Pasta para publicação  - Cobrar Fagundes",https://trello.com/c/5nLWJi9j,1 
+MC,160926,2016,09,57e93234afe9838a5fbbb521,Sim,10,"GTT Matricula - Orientar Bianca no Site da Matricula",https://trello.com/c/UGlSoYnu,1 
+WN,160926,2016,09,57eaab6ccf167c6f1bd59355,Sim,10,"Dashboard - Atividades do Trello",https://trello.com/c/2YB4AVly,1 
+WN,160926,2016,09,57eab94f1a18689fcb29f2fe,Sim,10,"Teletrabalho - Novo formulário",https://trello.com/c/6fx61YPf,1 
+MC,160926,2016,09,57eab94f1a18689fcb29f2fe,Sim,10,"Teletrabalho - Novo formulário",https://trello.com/c/6fx61YPf,1 
+MC,160926,2016,09,57e937e934d2a4779d227427,Sim,10,"Reunião de Entrega",https://trello.com/c/qUp33hKS,1 
+WN,160926,2016,09,57e937e934d2a4779d227427,Sim,10,"Reunião de Entrega",https://trello.com/c/qUp33hKS,1 
 MC,160919,2016,09,57dfe29499dff7fa31e4bf7b,Sim,8,"Reunião de Priorização e Planejamento",https://trello.com/c/nQCTvaIy,1 
 WN,160919,2016,09,57dfe29499dff7fa31e4bf7b,Sim,8,"Reunião de Priorização e Planejamento",https://trello.com/c/nQCTvaIy,1 
 MC,160919,2016,09,57e155048b7b36301041e732,Sim,10,"OSINFO ( Painel de Gestão das OSS)  - Consultoria",https://trello.com/c/kiiOM9OR,1 
@@ -354,7 +373,7 @@ JS,160509,2016,05,57321e88473906962457b781,Sim,7,"Atualização de conteúdo do 
 WN,160509,2016,05,57323296703e2fd84d85f5a0,Sim,7,"PGA - 5° Refinamento (Reunião)",https://trello.com/c/lFPhNCeq,1 
 WN,160509,2016,05,5730ef669bee2b32323e65a5,Sim,7,"Atualização do PGA (RF4)",https://trello.com/c/jvHyd0jY,1 
 WN,160509,2016,05,5730ef0a70007b07141bffc3,Sim,7,"Criação de template de indicadores",https://trello.com/c/Rv6dhp8z,1 
-WN,160509,2016,05,57332fcbb97a7fd59b2f2288,Sim,7,"Formatar status report da CTIS em relação a ferramenta de controle de OS.",https://trello.com/c/bAbNZ5Ko,1 
+WN,160509,2016,05,57332fcbb97a7fd59b2f2288,Sim,7,"Formatar "status report" da CTIS em relação a ferramenta de controle de OS.",https://trello.com/c/bAbNZ5Ko,1 
 MC,160509,2016,05,57312f9b5f9e3954b734147c,Sim,7,"Verificação do Plano de Ação enviado pela CTIS",https://trello.com/c/UzM1vErG,1 
 MC,160509,2016,05,5730f63302d5dbfcfce7b05f,Sim,7,"Contato com Palestrantes para Workshop de Aquisição",https://trello.com/c/cBv03IAL,1 
 WN,160509,2016,05,5730f63302d5dbfcfce7b05f,Sim,7,"Contato com Palestrantes para Workshop de Aquisição",https://trello.com/c/cBv03IAL,1 
